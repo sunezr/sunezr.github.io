@@ -41,7 +41,7 @@ from sklearn.model_selection import GridSearchCV,cross_val_score,StratifiedKFold
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 ```
 
-### Step 2:数据读取
+### 数据读取
 
 
 ```python
@@ -219,7 +219,7 @@ Sta_inf(Y_data)
     _var 1.4840560260597047
     
 
-### Step 4:模型训练与预测
+### 模型训练与预测
 
 ####  定义xgb和lgb模型函数
 
