@@ -5,13 +5,13 @@ window install tensorflow(GPU unknow)
 
 $ conda install -c conda-forge tensorflow 
 
-reference:https://anaconda.org/conda-forge/tensorflow
+reference:[link](https://anaconda.org/conda-forge/tensorflow)
 
-https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
+[link](https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/)
 
-error: https://github.com/tensorflow/tensorflow/issues/35749
+error: [link](https://github.com/tensorflow/tensorflow/issues/35749)
 
-1. https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+1. [link](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
 2. download x64: vc_redist.x64.exe
 
