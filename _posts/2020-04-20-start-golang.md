@@ -23,11 +23,12 @@ Then create floder in it, for example:`$ mkdir src/golang-book`.
 4. Add `.` to enviroment variable `PATH` allow you to run exe without starting with `./`.
 
 ### Goland:
-    Goland is an IDE from JetBrains (free 30-day trial).
-    [Download Goland](https://www.jetbrains.com/go/) 
+Goland is an IDE from JetBrains (free 30-day trial).
+[Download Goland](https://www.jetbrains.com/go/) 
     
 
 ## Hello World in Golang 
+Create a file `filename.go`
 ```
 package main
 
